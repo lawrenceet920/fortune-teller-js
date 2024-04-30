@@ -6,3 +6,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+    margin: 10px;
+    background-color: #90c0fd;
+}
+#output {
+    border: black solid 2px;
+    background-color: aqua;
+    margin: 10px;
+    padding: 1rem;
+    width: 30%;
+}
